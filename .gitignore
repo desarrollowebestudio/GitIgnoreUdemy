@@ -1,5 +1,6 @@
 # Ignorar archivo específico
 archivoEspecifico.txt
+otroArchivo.txt
 
 # Ignorar todos los archivos al interior de carpeta
 carpeta/
