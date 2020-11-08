@@ -1,8 +1,8 @@
 # Ignorar archivo específico
-/nuevoArchivo.txt
+archivoEspecifico.txt
 
 # Ignorar todos los archivos al interior de carpeta
-/carpeta/
+carpeta/
 
 # Ignorar todos los archivos con extensión temporal
-/*.tmp
+*.tmp
